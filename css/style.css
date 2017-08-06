@@ -1,0 +1,30 @@
+.container {
+  margin: 50px auto; }
+
+.btn-active {
+  font-size: 0; }
+  .btn-active .btn {
+    margin: 0 15px;
+    height: 60px;
+    width: 80px; }
+    .btn-active .btn:active {
+      background-color: #3f7449; }
+      .btn-active .btn:active .fa {
+        color: black; }
+      .btn-active .btn:active .badge {
+        background-color: white; }
+  .btn-active .fa {
+    font-size: 25px; }
+  .btn-active p {
+    font-size: 14px; }
+
+#js-playerName {
+  display: block; }
+
+#computer-css {
+  display: block; }
+
+.col-xs-5 > .badge {
+  border-radius: 0; }
+
+/*# sourceMappingURL=style.css.map */

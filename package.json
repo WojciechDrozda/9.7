@@ -1,0 +1,34 @@
+{
+  "name": "rockpaperscissors-game",
+  "version": "1.0.0",
+  "description": "Javascript game",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "sass": "^1.0.0-beta.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertBurnat/RockPaperScissors.git"
+  },
+  "keywords": [
+    "javascript",
+    "simple",
+    "game",
+    "grunt"
+  ],
+  "author": "Robert Burnat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertBurnat/RockPaperScissors/issues"
+  },
+  "homepage": "https://github.com/RobertBurnat/RockPaperScissors#readme"
+}
